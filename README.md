@@ -10,3 +10,8 @@ Danser-go: https://github.com/Wieku/danser-go
 ## What is this repository for?
 I made this repository to have a "online backup" of my danser settings. I'll leave a little list here of what you may need to change if you want to use my settings.
 
+## Graphics
+Change "\\Username\\" to your account name. For example, if you use Windows 10 and your account name is "Leonardo", change "Username" to "Leonardo". It should look like this:
+```js
+a
+```
