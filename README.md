@@ -10,8 +10,15 @@ Danser-go: https://github.com/Wieku/danser-go
 ## What is this repository for?
 I made this repository to have a "online backup" of my danser settings. I'll leave a little list here of what you may need to change if you want to use my settings.
 
-## Graphics
-Change "\\Username\\" to your account name. For example, if you use Windows 10 and your account name is "Leonardo", change "Username" to "Leonardo". It should look like this:
-```js
-a
+### Graphics
+```json
+"General": {
+		"OsuSongsDir": "C:\\Users\\Leonardo\\AppData\\Local\\osu!\\Songs",
+		"OsuSkinsDir": "C:\\Users\\Leonardo\\AppData\\Local\\osu!\\Skins",
+		"DiscordPresenceOn": true,
+		"UnpackOszFiles": true
+	},
 ```
+"OsuSongsDir" | "OsuSkinsDir": Change "\\Username\\" to your account name. For example, if you use Windows 10 and your account name is "Leonardo", change "Username" to "Leonardo".
+"DiscordPresenceOn": is a option to link to your discord as a "discord rich". In summary, if you use danser, it'll be displayed in your Discord Account.
+"UnpackOszFiles": I suggest to leave this option on.
