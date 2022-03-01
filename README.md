@@ -13,12 +13,12 @@ I made this repository to have a "online backup" of my danser settings. I'll lea
 ### Graphics
 ```json
 "General": {
-		"OsuSongsDir": "C:\\Users\\Leonardo\\AppData\\Local\\osu!\\Songs",
-		"OsuSkinsDir": "C:\\Users\\Leonardo\\AppData\\Local\\osu!\\Skins",
-		"DiscordPresenceOn": true,
-		"UnpackOszFiles": true
-	},
+	"OsuSongsDir": "C:\\Users\\Leonardo\\AppData\\Local\\osu!\\Songs",
+	"OsuSkinsDir": "C:\\Users\\Leonardo\\AppData\\Local\\osu!\\Skins",
+	"DiscordPresenceOn": true,
+	"UnpackOszFiles": true
+},
 ```
-"OsuSongsDir" | "OsuSkinsDir": Change "\\Username\\" to your account name. For example, if you use Windows 10 and your account name is "Leonardo", change "Username" to "Leonardo".
-"DiscordPresenceOn": is a option to link to your discord as a "discord rich". In summary, if you use danser, it'll be displayed in your Discord Account.
+"OsuSongsDir" | "OsuSkinsDir": Change "\\Username\\" to your account name. For example, if you use Windows 10 and your account name is "Leonardo", change "Username" to "Leonardo".\n
+"DiscordPresenceOn": is a option to link to your discord as a "discord rich". In summary, if you use danser, it'll be displayed in your Discord Account.\n
 "UnpackOszFiles": I suggest to leave this option on.
